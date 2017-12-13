@@ -1,1 +1,0 @@
-{"dependencies":[{"name":"./styles/index.scss","loc":{"line":1,"column":7}}],"generated":{"js":"\"use strict\";\n\nrequire(\"./styles/index.scss\");\n\nconsole.log(\"hello parcel world\");"},"hash":"f93e1daeef0d6bbbebbaa827530e175c"}
