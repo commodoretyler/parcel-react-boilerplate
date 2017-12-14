@@ -4,7 +4,7 @@
   "description": "Boilerplate app for Parcel bundler with React/Redux",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "jest",
     "start": "parcel watch index.html",
     "build": "parcel build index.js"
   },
